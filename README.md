@@ -1,4 +1,4 @@
-# firmware-development-portfolio
+# Firmware-Development-Portfolio
 This repository serves as a portfolio of my firmware development work, bare-metal driver development, and embedded software contributions published through NXP AppCodeHub.
 
 The projects documented here focus on low-level hardware interaction, peripheral driver development, board bring-up, validation, and demonstration applications for NXP devices.

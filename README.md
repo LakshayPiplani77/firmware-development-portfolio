@@ -58,7 +58,7 @@ The projects documented here focus on low-level hardware interaction, peripheral
 ---
 
 ## 📁 Repository Structure
-
+```text
 firmware-development-portfolio/
 ├── README.md
 ├── rtc/

@@ -110,17 +110,3 @@ firmware-development-portfolio/
 - Production-Oriented Embedded Software
 
 ---
-
-## 📝 Notes
-
-This repository does not duplicate proprietary source code.
-
-It documents publicly available NXP AppCodeHub projects, implementation summaries, hardware context, engineering learnings, and links to public repositories or contributions.
-
----
-
-## Philosophy
-
-Good firmware sits closest to the hardware.
-
-This repository highlights practical experience in transforming device datasheets into reliable software through careful driver design, validation, debugging, and system integration.

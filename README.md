@@ -72,7 +72,7 @@ firmware-development-portfolio/
 │ └── pcal6408a.md
 └── i3c/
     └── p3s0210bq.md
-'''
+```
 ---
 
 ## 🛠️ Skills Demonstrated
